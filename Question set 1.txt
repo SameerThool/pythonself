@@ -1,0 +1,16 @@
+Q. How to display employees whose salary between 15000 and 25000 without using between operators?
+
+Q. Display employees whose COMMISION_PCT (col name)is other than 0.10.
+
+Q. Display the list of employees having first name ‘David’ or ‘Diana’ without using 'LIKE'.
+
+Q. dispaly students name who are out of maharashta and they are using lang mostly English and hindi
+
+Q. Write a query to display city name which are not starting from vowels.
+
+Q. Find sum of salary of each dept and then arrange records in dec order
+
+Q. Display the department name with highest salary?
+
+Q.In group where we can use 'WHERE' clause and Why?
+
